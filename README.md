@@ -1,2 +1,0 @@
-# NhanDienKhuongMat
-Dung CNN
